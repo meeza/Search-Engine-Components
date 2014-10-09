@@ -21,5 +21,8 @@ package crawler;
  * @author Mohd Azeem
  */
 public class HTMLExtractor {
+
+    public HTMLExtractor() {
+    }
     
 }
